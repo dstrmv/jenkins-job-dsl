@@ -1,0 +1,2 @@
+pipelineJob('test') {
+}
