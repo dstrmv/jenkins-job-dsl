@@ -1,2 +1,2 @@
-pipelineJob("test") {
+job("test") {
 }
